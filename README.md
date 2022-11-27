@@ -1,6 +1,9 @@
 # Sentiment-Analysis-NLTK-VADER
 
-Scraping reviews for Black Adam movie from imdb using python
+Scraping reviews for The Godfather movie from imdb using python
+
+![image](https://user-images.githubusercontent.com/59805646/204113970-ee035a43-f320-4afe-8674-3c3b20fc8503.png)
+
 
 Sentiment analysis done with NLTK-VADER.
 
@@ -31,6 +34,6 @@ Sentiment analysis done with NLTK-VADER.
 </ul>
 
 
-![Screenshot 2022-11-27 011709](https://user-images.githubusercontent.com/59805646/204113738-4a28e0f0-7da9-4e4d-a060-7fd4edf587b2.png)
+![image](https://user-images.githubusercontent.com/59805646/204113976-e3208d6a-87c3-4576-889e-4c29426bfc85.png)
 
 
