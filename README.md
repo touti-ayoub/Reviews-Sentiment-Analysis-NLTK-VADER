@@ -1,11 +1,13 @@
 # Sentiment-Analysis-NLTK-VADER
 
-Scraping reviews for The Godfather movie from imdb using python
+## Scraping reviews for The Godfather movie from imdb using python
 
 ![image](https://user-images.githubusercontent.com/59805646/204113970-ee035a43-f320-4afe-8674-3c3b20fc8503.png)
 
 
-Sentiment analysis done with NLTK-VADER.
+## Sentiment analysis done with NLTK-VADER.
+
+![image](https://user-images.githubusercontent.com/59805646/204113976-e3208d6a-87c3-4576-889e-4c29426bfc85.png)
 
 ## Used modules:
 
@@ -34,6 +36,5 @@ Sentiment analysis done with NLTK-VADER.
 </ul>
 
 
-![image](https://user-images.githubusercontent.com/59805646/204113976-e3208d6a-87c3-4576-889e-4c29426bfc85.png)
 
 
