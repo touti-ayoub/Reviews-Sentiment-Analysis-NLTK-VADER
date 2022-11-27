@@ -1,6 +1,6 @@
 # Sentiment-Analysis-NLTK-VADER
 
-Scraping reviews for The Godfather movie from imdb using python
+Scraping reviews for Black Adam movie from imdb using python
 
 Sentiment analysis done with NLTK-VADER.
 
